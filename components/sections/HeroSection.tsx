@@ -31,7 +31,7 @@ export function HeroSection() {
                 delay: 0,
               }}>
               <span className='inline-block rounded-full border border-[#7C3AED]/40 bg-[#7C3AED]/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.15em] text-[#C4B5FD]'>
-                Formal wear boutique in Cusco, Peru
+                Formal wear boutique in Lima, Peru
               </span>
             </motion.div>
 

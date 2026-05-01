@@ -11,8 +11,8 @@ export function LocationSection() {
         <Reveal>
           <SectionHeading
             eyebrow='Location'
-            title='Visit Mavelle Fashion in Cusco, Peru.'
-            description='Mavelle Fashion is located in Cusco, Peru, offering elegant formal wear for customers who want a professional and sophisticated style.'
+            title='Visit Mavelle Fashion in Lima, Peru.'
+            description='Mavelle Fashion is located in Lima, Peru, offering elegant formal wear for customers who want a professional and sophisticated style.'
           />
         </Reveal>
 
@@ -64,7 +64,7 @@ export function LocationSection() {
                   style={{
                     fontFamily: 'var(--font-playfair), Georgia, serif',
                   }}>
-                  Cusco, Peru
+                  Lima, Peru
                 </p>
                 <p className='mt-2 text-sm text-[#A1A1AA]'>
                   Historic city center

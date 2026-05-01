@@ -15,12 +15,12 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Mavelle Fashion | Elegant Formal Wear in Cusco",
+  title: "Mavelle Fashion | Elegant Formal Wear in Lima",
   description:
-    "Mavelle Fashion is a formal clothing boutique in Cusco, Peru, offering blazers, dress pants, formal shoes, ties, shirts, and elegant accessories for modern professionals.",
+    "Mavelle Fashion is a formal clothing boutique in Lima, Peru, offering blazers, dress pants, formal shoes, ties, shirts, and elegant accessories for modern professionals.",
   openGraph: {
-    title: "Mavelle Fashion | Elegant Formal Wear in Cusco",
-    description: "Formal clothing boutique in Cusco, Peru.",
+    title: "Mavelle Fashion | Elegant Formal Wear in Lima",
+    description: "Formal clothing boutique in Lima, Peru.",
     type: "website",
   },
 };

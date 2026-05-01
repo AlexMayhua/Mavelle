@@ -4,7 +4,7 @@ import { SectionHeading } from "@/components/ui/SectionHeading";
 
 const highlights = [
   { label: "Formal Wear", sub: "For every occasion" },
-  { label: "Cusco, Peru", sub: "Our home city" },
+  { label: "Lima, Peru", sub: "Our home city" },
   { label: "Men & Women", sub: "Complete collections" },
   { label: "Modern Elegance", sub: "Refined, timeless style" },
 ];
